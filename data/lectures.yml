@@ -5,7 +5,7 @@
       Label: Lecture
       Topics:
           - Introduction
-          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023/lectures/lec01/01-handout.pdf"}
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec01/01-handout.pdf"}
 # Materials:
 #     - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
 # References:
