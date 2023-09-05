@@ -1,16 +1,14 @@
 ﻿-
   Title: Week 1
   Events: 
-    2023-09-05
-#     2023-01-24:
-#       Label: Lecture (RSZ)
-#       Topics:
-#           - {"Course logistics and overview": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01a.overview.pdf"}
-#           - {"Introduction to machine learning": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01b.intro-machine-learning.pdf"}
-#           - {"Introduction to statistical learning theory": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01c.intro-stat-learning-theory.pdf"}
-#       Materials:
-#           - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
-#       References:
+    2023-09-05:
+      Label: Lecture
+      Topics:
+          - Introduction
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023/lectures/lec01/01-handout.pdf"}
+# Materials:
+#     - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
+# References:
 #     2023-01-25:
 #       Label: Lab
 #       Topics:
