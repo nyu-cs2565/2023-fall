@@ -47,21 +47,22 @@
 #         - {"(Notebook) Adaptive Learning Rate": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-1.ipynb" }
 #         - {"(Notebook) Batch, Mini-batch and Stochastic GD": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-2.ipynb"}
 #       References:
-# -
-#   Title: Week 3
-#   Events:
-#     2021-02-07:
-#       Label: Lecture (MR)
-#       Topics:
-#           - Feature selection
-#           - Regularization
-#           - Lasso Optimization
-#           - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec03/03-handout.pdf"}
-#       Materials:
+-
+  Title: Week 3
+  Events:
+    2021-02-07:
+      Label: Lecture (MR)
+      Topics:
+          - Feature selection
+          - Regularization
+          - Lasso Optimization
+          - SVM
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec03/03-handout.pdf"}
+      Materials:
 #         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
-#           #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
-#           #- {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
-#           #- {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
+          # - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
+          # - {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
+          - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
 #           #Notes:
 #           # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
 #           # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
