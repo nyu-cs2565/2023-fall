@@ -116,7 +116,7 @@
          - Feature Maps
          - Kernel Trick
          - Representer Theorem
-         - Maximum likelihood
+         - Maximum Likelihood Estimation
          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec05/05-handout.pdf"}
       Materials:
       References:
@@ -129,33 +129,34 @@
 #       Materials:
 #         - {"(Notebook) SVM with RBF Kernel on MNIST": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab05.ipynb"}
 #       References:
-# -
-#   Title: Week 6
-#   Events:
-#     2023-02-28:
-#       Label: Lecture (RSZ)
-#       Topics:
-#         - Maximum Likelihood Estimation
-#         - Generative and discriminative models
-#         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec06/06.pdf"}
-#       Materials:
-#         - {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
-#         - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
-#         - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
-#         - {Exponential Distribution Example (First part): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
-#         - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check.pdf"}
-#         - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check_sol.pdf"}
-#     2023-03-01:
-#       Label: Lab
-#       Topics:
-#         - {"MLE Review": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab6.pdf"}
-#       Materials:
-#         - {"Spring 2021 Midterm": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_release.pdf"}
-#         - {"Spring 2021 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_solutions.pdf"}
-#         - {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm.pdf"}
-#         - {"Spring 2020 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm_solutions.pdf"}
-#         - {"Spring 2019 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm.pdf"}
-#         - {"Spring 2019 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm-Solution.pdf"}
+-
+  Title: Week 6
+  Events:
+    2023-10-17:
+      Label: Lecture
+      Topics:
+        - Maximum Likelihood Estimation
+        - Generative and Discriminative Models
+        - Bayes Rule
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec06/06-handout.pdf"}
+      Materials:
+        # - {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
+        - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
+        - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
+        # - {Exponential Distribution Example (First part): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+        # - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check.pdf"}
+        # - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check_sol.pdf"}
+    # 2023-03-01:
+    #   Label: Lab
+    #   Topics:
+    #     - {"MLE Review": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab6.pdf"}
+    #   Materials:
+    #     - {"Spring 2021 Midterm": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_release.pdf"}
+    #     - {"Spring 2021 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_solutions.pdf"}
+    #     - {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm.pdf"}
+    #     - {"Spring 2020 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm_solutions.pdf"}
+    #     - {"Spring 2019 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm.pdf"}
+    #     - {"Spring 2019 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm-Solution.pdf"}
 # # -
 # #   Title: Week 7
 # #   Events:
