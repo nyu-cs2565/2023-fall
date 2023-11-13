@@ -130,7 +130,7 @@
 #         - {"(Notebook) SVM with RBF Kernel on MNIST": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab05.ipynb"}
 #       References:
 -
-  Title: Week 6
+  Title: Week 7
   Events:
     2023-10-17:
       Label: Lecture
@@ -183,7 +183,7 @@
 # #         #- {"Spring 2019 Midterm": "https://nyu-ds1003.github.io/mlcourse/exams/sp19/1003-Spring2019-Midterm.pdf"}
 # #         #- {"Spring 2019 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp19/1003-Spring2019-Midterm-Solution.pdf"}
 -
-  Title: Week 8
+  Title: Week 9
   Events:
     2023-10-31:
       Label: Lecture
