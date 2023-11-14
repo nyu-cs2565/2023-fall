@@ -197,7 +197,7 @@
     #   Topics:
     #     - {"Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab8.pdf"}
 -
-  Title: Week 9
+  Title: Week 10
   Events:
     2023-11-07:
       Label: Lecture
@@ -234,29 +234,29 @@
 #        # - "SSBD Chapter 17"
 # #        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
 # #        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
-# -
-#   Title: Week 10
-#   Events:
-#     2023-04-04:
-#       Label: Lecture (MR)
-#       Topics:
-#         - Decision Trees
-#         - Random Forests
-#         - AdaBoost
-#         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec10/10.pdf"}
-#       Materials:
-#         - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
-#         - {"Viola-Jones Face Detector": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
-#       References:
-#         - "JWHT 8.1 (Trees)"
-#         - "HTF 9.2 (Trees)"
-#     2023-04-05:
-#       Label: Lab
-#       Topics:
-#         - {"Trees, Bootstrap, Bagging, Boosting": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab10.pdf"}
-#       References:
-#        - "JWHT 5.2 (Bootstrap)"
-#        - "HTF 7.11 (Bootstrap)"
+-
+  Title: Week 11
+  Events:
+    2023-11-14:
+      Label: Lecture
+      Topics:
+        - Random Forests
+        - AdaBoost
+        - Gradient Boosting
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec09/09-handout.pdf"}
+      Materials:
+        - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
+        - {"Viola-Jones Face Detector": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
+      References:
+        - "JWHT 8.1 (Trees)"
+        - "HTF 9.2 (Trees)"
+    # 2023-04-05:
+    #   Label: Lab
+    #   Topics:
+    #     - {"Trees, Bootstrap, Bagging, Boosting": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab10.pdf"}
+    #   References:
+    #    - "JWHT 5.2 (Bootstrap)"
+    #    - "HTF 7.11 (Bootstrap)"
 # -
 #   Title: Week 11
 #   Events:
